@@ -1,0 +1,6 @@
+Flask
+PyMysql
+Flask-CORS
+kafka
+kafka_python
+peewee
