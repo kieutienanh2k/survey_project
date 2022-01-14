@@ -24,4 +24,4 @@ class RouteController:
         return True
     
     def jqk(self):
-        return Fasle
+        return False

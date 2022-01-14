@@ -7,3 +7,7 @@ def producer_view_count(value):
     # send cac page vao kafka
     return producer.send(topic_obj, value=value)
 
+
+if __name__ == '__main__':
+    producer_view_count("")
+
