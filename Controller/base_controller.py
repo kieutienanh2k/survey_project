@@ -28,3 +28,6 @@ class RouteController:
 
     def mno(self):
         return 1
+
+    def git_rebase_master(self):
+        return 1
