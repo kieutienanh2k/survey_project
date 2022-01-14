@@ -25,6 +25,3 @@ class RouteController:
     
     def jqk(self):
         return False
-
-    def mno(self):
-        return 0
