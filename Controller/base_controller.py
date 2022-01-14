@@ -19,3 +19,6 @@ class RouteController:
 
     def del_news_controller(self, _id):
         return News().delete_news(_id)
+    
+    def abc(self):
+        return True
