@@ -25,3 +25,6 @@ class RouteController:
 
     def check(self):
         return None
+
+    def mno(self):
+        return True
