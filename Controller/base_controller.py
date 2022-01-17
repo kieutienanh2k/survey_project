@@ -22,3 +22,6 @@ class RouteController:
 
     def git_rebase_2(self):
         return 1
+
+    def check(self):
+        return None
